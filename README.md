@@ -8,6 +8,10 @@ Setup
 4. Install Ollama (https://ollama.com/download)
 5. ollama pull llama3 (etc)
 6. ollama pull mxbai-embed-large
-7. run appli.py for tkinter u might need to manually start the ollama server next time using ollama ull llama3
-8. streamlit run server.py to use streamlit interface where you can start the server using GUI. 
+7. use streamlit run fianl.py to automatically start the srever and directly use the GUI
+
 Referred : https://www.youtube.com/watch?v=Oe-7dGDyzPM
+
+Additional ways
+1. run appli.py for tkinter u might need to manually start the ollama server next time using ollama pull llama3
+2. 2. streamlit run server.py to use streamlit interface where you might need to manually start the ollama server next time using ollama pull llama3
